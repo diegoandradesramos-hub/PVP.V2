@@ -1,0 +1,104 @@
+product_rules:
+- category: PANES
+  iva_rate: 0.04
+  match:
+  - gran reserva
+  - bocata
+  - gourmet
+  unit: ud
+- category: PIZZAS Y PASTAS
+  iva_rate: 0.1
+  match:
+  - pizza
+  - margarita
+  - pepperoni
+  - jamon
+  - cheddar
+  unit: ud
+- category: CONGELADOS
+  iva_rate: 0.1
+  match:
+  - kebab
+  - iqf
+  - ternera
+  - pollo
+  - calamar
+  - langostino
+  - cachopo
+  - flamenquin
+  unit: kg
+- category: CONGELADOS
+  iva_rate: 0.1
+  match:
+  - aviko
+  - patata
+  unit: kg
+- category: CONGELADOS
+  iva_rate: 0.1
+  match:
+  - crispy burger
+  - burger
+  - hamb
+  unit: ud
+- category: PLATO PRINCIPAL
+  iva_rate: 0.1
+  match:
+  - matutano
+  - chips
+  - chetos
+  - ketchup
+  - mayonesa
+  unit: ud
+- category: BEBIDAS
+  iva_rate: 0.21
+  match:
+  - corona
+  - mah
+  - fanta
+  - aquabona
+  - coca
+  unit: ud
+- category: BEBIDAS
+  iva_rate: 0.21
+  match:
+  - vino
+  - soldepeñas
+  - tinto
+  unit: ud
+supplier_alias:
+  cocacola:
+  - coca-cola
+  - cocacola
+  - coca cola european partners
+  - aquabona
+  - fanta
+  deca:
+  - deca 1285
+  - deca1285
+  - congelados deca
+  - deca s.l.
+  - deca
+  europastry:
+  - europastry
+  - europa pastry
+  llinares:
+  - p. llinares
+  - congelados llinares
+  - pllinares
+  - llinares
+  perymuz:
+  - perymuz
+  - perymuz xxi
+unit_alias:
+  kg: kg
+  kilo: kg
+  kilos: kg
+  l: L
+  litro: L
+  litros: L
+  lt: L
+  u: ud
+  ud: ud
+  uds: ud
+  unidad: ud
+  unidades: ud
