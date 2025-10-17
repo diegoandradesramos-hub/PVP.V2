@@ -1,0 +1,59 @@
+item_key,ingredient,qty_per_portion,unit
+item_017,Pan,1.0,unit
+item_017,Carne de vacuno (burguer cruda),0.15,kg
+item_017,Queso lonchas/manchego,0.02,kg
+item_017,Lechuga,0.01,kg
+item_017,Tomate fresco,0.02,kg
+item_017,Cebolla,0.01,kg
+item_017,Salsas (burger/mayo/ketchup),0.012,kg
+item_018,Pan,1.0,unit
+item_018,Carne de vacuno (burguer cruda),0.2,kg
+item_018,Queso lonchas/manchego,0.02,kg
+item_018,Lechuga,0.01,kg
+item_018,Tomate fresco,0.02,kg
+item_018,Cebolla,0.01,kg
+item_018,Bacon,0.02,kg
+item_018,Huevo,1.0,unit
+item_018,Salsas (burger/mayo/ketchup),0.015,kg
+item_019,Pan,1.0,unit
+item_019,Carne mezcla cerdo/ternera (90g),0.09,kg
+item_019,Queso lonchas/manchego,0.015,kg
+item_019,Salsas (burger/mayo/ketchup),0.01,kg
+item_020,Pan,1.0,unit
+item_020,Carne mezcla cerdo/ternera (90g),0.09,kg
+item_020,Queso lonchas/manchego,0.015,kg
+item_020,Lechuga,0.01,kg
+item_020,Tomate fresco,0.015,kg
+item_020,Cebolla,0.01,kg
+item_020,Bacon,0.015,kg
+item_020,Salsas (burger/mayo/ketchup),0.012,kg
+item_021,Pan,1.0,unit
+item_021,Pollo pechuga,0.1,kg
+item_021,Queso lonchas/manchego,0.015,kg
+item_021,Lechuga,0.01,kg
+item_021,Tomate fresco,0.015,kg
+item_021,Cebolla,0.01,kg
+item_021,Salsas (burger/mayo/ketchup),0.012,kg
+item_029,Base pizza 30cm,1.0,unit
+item_029,Queso rallado,0.18,kg
+item_029,Salsa de tomate,0.08,kg
+item_030,Base pizza 30cm,1.0,unit
+item_030,Quesos varios (cheddar/azul/cabra),0.18,kg
+item_031,Base pizza 30cm,1.0,unit
+item_031,Salsa barbacoa,0.06,kg
+item_031,Cebolla,0.02,kg
+item_031,Bacon,0.03,kg
+item_031,Cerdo (lomo/solomillo),0.04,kg
+item_032,Base pizza 30cm,1.0,unit
+item_032,Pepperoni,0.06,kg
+item_033,Base pizza 30cm,1.0,unit
+item_033,AtÃºn lata escurrido,0.06,kg
+item_034,Base pizza 30cm,1.0,unit
+item_034,JamÃ³n cocido,0.05,kg
+item_056,Cerveza barril,0.25,L
+item_055,Cerveza barril,0.5,L
+item_057,Cerveza barril,0.57,L
+item_076,CafÃ© molido,0.008,kg
+item_076,Leche,0.15,L
+item_075,CafÃ© molido,0.012,kg
+item_075,Leche,0.2,L
